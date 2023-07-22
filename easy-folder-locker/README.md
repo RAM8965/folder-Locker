@@ -1,4 +1,6 @@
 # Easy Folder Locker v1.0
+: Java Based Application
+: Easy to use
 
 - How to run Easy Folder Locker jar
 ```
